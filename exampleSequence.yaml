@@ -1,0 +1,12 @@
+name: Test Sequence
+actions:
+ - type: io
+   pin: 0
+   set: on
+   delay: 0
+   time: 1000
+ - type: io
+   pin: 1
+   set: toggle
+   delay: 500
+   time: 2000
