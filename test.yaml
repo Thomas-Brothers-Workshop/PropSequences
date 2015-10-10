@@ -5,8 +5,3 @@ actions:
    set: on
    delay: 0
    time: 1000
- - type: io
-   pin: 2
-   set: toggle
-   delay: 500
-   time: 2000
