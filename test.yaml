@@ -4,4 +4,9 @@ actions:
    pin: 1
    set: on
    delay: 0
+   time: 10000
+ - type: io
+   pin: 2
+   set: toggle
+   delay: 0
    time: 1000
