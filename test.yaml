@@ -4,9 +4,14 @@ actions:
    pin: 1
    set: on
    delay: 0
-   time: 10000
+   time: 3000
  - type: io
    pin: 2
    set: toggle
-   delay: 0
-   time: 1000
+   delay: 1500
+   time: 3000
+- type: io
+  pin: 3
+  set: toggle
+  delay: 3000
+  time: 3000
