@@ -7,11 +7,6 @@ actions:
    time: 3000
  - type: io
    pin: 2
-   set: toggle
-   delay: 1500
-   time: 3000
- - type: io
-   pin: 2
-   set: toggle
-   delay: 1500
-   time: 3000
+   set: on
+   delay: 1000
+   time: 2000
