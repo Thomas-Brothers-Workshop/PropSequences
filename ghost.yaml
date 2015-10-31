@@ -1,0 +1,7 @@
+name: Ghost
+actions:
+ - type: io
+   pin: 10
+   set: on
+   delay: 0
+   time: 3000

@@ -1,0 +1,17 @@
+name: Coffin
+actions:
+ - type: io
+   pin: 9
+   set: on
+   delay: 500
+   time: 2500
+ - type: sound
+   pin: 17
+   set: one
+   delay: 0
+   time: 0
+ - type: io
+   pin: 2
+   set: on
+   delay: 500
+   time: 3000
