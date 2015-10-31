@@ -1,0 +1,12 @@
+name: Clown
+actions:
+ - type: io
+   pin: 12
+   set: on
+   delay: 0
+   time: 2500
+ - type: io
+   pin: 5
+   set: on
+   delay: 250
+   time: 2250

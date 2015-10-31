@@ -1,0 +1,7 @@
+name: Spider
+actions:
+ - type: io
+   pin: 14
+   set: on
+   delay: 0
+   time: 1000

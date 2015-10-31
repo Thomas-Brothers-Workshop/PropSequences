@@ -1,17 +1,17 @@
-name: Ghost
+name: Grave
 actions:
  - type: io
-   pin: 10
+   pin: 13
    set: on
-   delay: 0
-   time: 3000
+   delay: 500
+   time: 2500
  - type: sound
-   pin: 18
-   set: two
+   pin: 21
+   set: one
    delay: 0
    time: 0
  - type: io
-   pin: 1
+   pin: 6
    set: on
-   delay: 300
+   delay: 500
    time: 3000

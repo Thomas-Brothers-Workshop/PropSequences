@@ -1,0 +1,12 @@
+name: Fire
+actions:
+ - type: sound
+   pin: 20
+   set: four
+   delay: 0
+   time: 0
+ - type: io
+   pin: 16
+   set: on
+   delay: 1500
+   time: 300

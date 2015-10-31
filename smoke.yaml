@@ -1,0 +1,7 @@
+name: Smoke
+actions:
+ - type: io
+   pin: 15
+   set: on
+   delay: 0
+   time: 10000

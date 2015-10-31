@@ -1,17 +1,17 @@
-name: Ghost
+name: Popup
 actions:
  - type: io
-   pin: 10
+   pin: 11
    set: on
-   delay: 0
-   time: 3000
+   delay: 500
+   time: 250
  - type: sound
-   pin: 18
-   set: two
+   pin: 19
+   set: three
    delay: 0
    time: 0
  - type: io
-   pin: 1
+   pin: 4
    set: on
    delay: 300
-   time: 3000
+   time: 1500
