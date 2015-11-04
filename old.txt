@@ -2,22 +2,22 @@ coffin:
 http://192.168.1.149:8000/macros/cmd/RELAY=9;ON;2.5;.5:SOUND=1;17;0:RELAY=2;ON;3;.5
 
 ghost
-http://192.168.1.34:8000/macros/cmd/RELAY=10;ON;3;0:RELAY=1;ON;3;.3:SOUND=2;18;0
+http://192.168.1.149:8000/macros/cmd/RELAY=10;ON;3;0:RELAY=1;ON;3;.3:SOUND=2;18;0
 
 clown
-http://192.168.1.34:8000/macros/cmd/RELAY=12;ON;2.5;0:RELAY=5;ON;2.25;.25
+http://192.168.1.149:8000/macros/cmd/RELAY=12;ON;1.5;0:RELAY=5;ON;2.25;.25
 
 popup
-http://192.168.1.134:8000/macros/cmd/RELAY=11;ON;.25;.5:RELAY=4;ON;1.5;.25:SOUND=3;19;0
+http://192.168.1.149:8000/macros/cmd/RELAY=11;ON;.25;.5:RELAY=4;ON;1.5;.25:SOUND=3;19;0
 
 spider
-http://192.168.1.134:8000/macros/cmd/RELAY=14;ON;1;0
+http://192.168.1.149:8000/macros/cmd/RELAY=14;ON;1;0
 
 grave
-http://192.168.1.134:8000/macros/cmd/RELAY=13;ON;2.5;.5:SOUND=1;21;0:RELAY=6;ON;3;.5
+http://192.168.1.149:8000/macros/cmd/RELAY=13;ON;.7;.5:SOUND=1;21;0:RELAY=6;ON;3;.25
 
 smoke
-http://192.168.1.34:8000/macros/cmd/Relay=15;ON;10;0
+http://192.168.1.149:8000/macros/cmd/Relay=15;ON;10;0
 
 fire
-http://10.238.242.159:3333/macros/cmd/SOUND=4;20;0:RELAY=16;ON;.3;1.5
+http://192.168.1.149:8000/macros/cmd/SOUND=4;20;0:RELAY=16;ON;.5;.75
